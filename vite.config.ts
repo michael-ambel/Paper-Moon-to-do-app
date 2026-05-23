@@ -1,3 +1,4 @@
+// pull-sync test marker — should appear PROTECTED in Shipper pull preview
 import path from "path";
 import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react";
